@@ -298,7 +298,7 @@ a:hover{
     justify-content: space-between !important;
 }
 .news-title{
-width: 70%;
+width: 100%;
 }
 
 .news-image-container .img{
@@ -353,7 +353,7 @@ width: 70%;
 }
 .search-crypto{
     margin: 20px auto 30px auto;
-    width: 250px;
+    width: 50%;
 }
 .crypto-card-container{
     min-height: 65vh !important;
